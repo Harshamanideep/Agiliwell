@@ -90,21 +90,19 @@ Agiliwell/
 └── README.md
 
 
+## 🤝 Contributions
 
+Contributions, suggestions, and feature requests are welcome!  
+Feel free to open an issue or submit a pull request.
 ---
 
 ## 📦 Installation & Usage
 
-### Clone the Repository
+## Clone the Repository
 ```bash
 git clone https://github.com/Harshamanideep/Agiliwell.git
 cd Agiliwell
 
 
-## 🤝 Contributions
 
-Contributions, suggestions, and feature requests are welcome!  
-Feel free to open an issue or submit a pull request.
-
-## 📂 Project Structure (Simplified)
 
