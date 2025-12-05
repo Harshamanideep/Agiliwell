@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Compat.NotificationActionContainer" parent="@android:style/Widget.Button" />
+    <style name="Widget.Compat.NotificationActionText" parent="@android:style/Widget.TextView" />
+</resources>

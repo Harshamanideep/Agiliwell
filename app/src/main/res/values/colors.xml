@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agiliwell_green_primary">#00A86B</color>
+    <color name="agiliwell_green_secondary">#1BC47D</color>
+    <color name="agiliwell_green_tertiary">#59D79B</color>
+    <color name="agiliwell_green_dark">#008855</color>
+
+    <color name="agiliwell_black_surface">#121212</color>
+    <color name="agiliwell_surface_variant">#E6E6E6</color>
+    <color name="agiliwell_white_background">#FFFFFF</color>
+
+    <color name="agiliwell_text_dark">#121212</color>
+    <color name="agiliwell_text_light">#FFFFFF</color>
+
+    <color name="agiliwell_error">#B00020</color>
+    <color name="agiliwell_success">#00C853</color>
+    <color name="agiliwell_warning">#FFA000</color>
+    <color name="agiliwell_info">#0288D1</color>
+
+    <!-- Material aliases -->
+    <color name="md_theme_light_primary">@color/agiliwell_green_primary</color>
+    <color name="md_theme_light_secondary">@color/agiliwell_green_secondary</color>
+    <color name="md_theme_light_tertiary">@color/agiliwell_green_tertiary</color>
+    <color name="md_theme_light_background">@color/agiliwell_white_background</color>
+    <color name="md_theme_light_onBackground">@color/agiliwell_text_dark</color>
+    <color name="md_theme_light_surface">@color/agiliwell_white_background</color>
+    <color name="md_theme_light_onSurface">@color/agiliwell_text_dark</color>
+
+    <color name="md_theme_dark_primary">@color/agiliwell_green_dark</color>
+    <color name="md_theme_dark_secondary">@color/agiliwell_green_secondary</color>
+    <color name="md_theme_dark_tertiary">@color/agiliwell_green_tertiary</color>
+    <color name="md_theme_dark_background">@color/agiliwell_black_surface</color>
+    <color name="md_theme_dark_onBackground">@color/agiliwell_text_light</color>
+    <color name="md_theme_dark_surface">@color/agiliwell_black_surface</color>
+    <color name="md_theme_dark_onSurface">@color/agiliwell_text_light</color>
+
+    <!-- app compatibility aliases -->
+    <color name="purple_200">@color/agiliwell_green_primary</color>
+    <color name="purple_500">@color/agiliwell_green_secondary</color>
+    <color name="purple_700">@color/agiliwell_green_dark</color>
+    <color name="teal_200">@color/agiliwell_green_primary</color>
+    <color name="teal_700">@color/agiliwell_green_dark</color>
+    <color name="black">@color/agiliwell_black_surface</color>
+    <color name="white">@color/agiliwell_white_background</color>
+</resources>
