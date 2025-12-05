@@ -1,33 +1,110 @@
-# Agiliwell - Water Reminder
-The Water Reminder App is a simple application designed to help users stay hydrated by reminding them to drink water regularly throughout the day. 
-It allows users to set their daily water intake goals and track their progress towards achieving them.
+# 🌟 Agiliwell – All-in-One Health & Wellness Android App
+
+Agiliwell is a complete lifestyle and wellness application designed to improve daily health habits.  
+It brings together **hydration tracking, yoga guidance, exercise routines, healthy food recommendations, and daily health tips** — all inside a clean and modern Android UI.
+
+---
+
+## 🚀 Features
+
+### 💧 Water Reminder
+- Set your daily hydration goal  
+- Quick-add drinking amounts  
+- Smart scheduled reminders  
+- Daily hydration progress tracking  
+
+---
+
+### 🧘 Yoga
+- Beginner-friendly yoga poses  
+- Simple descriptions for each pose  
+- Helps improve flexibility, breathing, and relaxation  
+
+---
+
+### 🏋️ Exercise
+- Easy home workout routines  
+- Basic exercises for daily fitness  
+- Ideal for beginners and casual training  
+
+---
+
+### 🍎 Food & Nutrition
+- Healthy food ideas  
+- Nutritional suggestions  
+- Helps build better eating habits  
+
+---
+
+### 💡 Health Tips
+- Daily wellness and lifestyle tips  
+- Motivation for maintaining a healthy routine  
+
+---
+
+### 🏠 Clean Home Dashboard
+A modern dashboard gives quick access to all features:
+- Water Reminder  
+- Yoga  
+- Exercise  
+- Food  
+- Health Tips  
+
+Designed using **Material UI** for smooth navigation and clarity.
+
+---
+
+## 🛠 Tech Stack
+
+| Component | Technology |
+|----------|-------------|
+| Language | Kotlin |
+| UI | XML + Material Components |
+| Architecture | MVVM (where applicable) |
+| Notifications | AlarmManager / WorkManager |
+| Storage | SharedPreferences / Room (if enabled) |
+| Build System | Gradle (KTS) |
+
+---
+## 📂 Project Structure (Simplified)
+
+Agiliwell/
+├── app/
+│ ├── java/com/agiliwell/waterreminder/
+│ │ ├── activities/
+│ │ │ ├── HomeActivity.kt
+│ │ │ ├── YogaActivity.kt
+│ │ │ ├── ExerciseActivity.kt
+│ │ │ ├── FoodActivity.kt
+│ │ │ ├── HealthTipsActivity.kt
+│ │ │ ├── WaterReminderActivity.kt
+│ │ ├── notifications/
+│ │ ├── utils/
+│ ├── res/
+│ │ ├── layout/
+│ │ ├── drawable/
+│ │ ├── values/
+│ │ └── mipmap/
+├── build.gradle.kts
+├── settings.gradle.kts
+└── README.md
 
 
 
+---
 
-## Features
-* Water Intake Reminder: Receive timely notifications reminding you to drink water regularly.
-* Customizable Goals: Set your daily water intake goals based on your preferences and needs.
-* Track Your Progress: Monitor your daily water intake and view your progress toward achieving your goals.
-* User-Friendly Interface: Simple and intuitive interface for easy navigation and usage.
+## 📦 Installation & Usage
 
-## Reporting Issues
-If you encounter any issues or bugs while using the Water Reminder App, please report them by opening a new issue in the GitHub repository.
-Include detailed information about the issue, steps to reproduce it, and any relevant screenshots or error messages.
+### Clone the Repository
+```bash
+git clone https://github.com/Harshamanideep/Agiliwell.git
+cd Agiliwell
 
-## Feedback and Suggestions
-We welcome any feedback or suggestions you may have for improving the Water Reminder App. If you have ideas for new features, enhancements,
-or other improvements, please feel free to share them by opening a new issue or contributing directly to the codebase.
 
-## Contribution Guidelines
-Thank you for considering contributing to Agiliwell! We welcome contributions from the community to help improve and enhance the app for all users. 
-Please take a moment to review the following guidelines before submitting your contribution:
+## 🤝 Contributions
 
-1. Fork the Repository: Fork the Agiliwell repository to your GitHub account.
-2. Clone the Repository: Clone your forked repository to your local machine using Git. 
-3. Make Changes: Implement your changes and improvements to the codebase.
-4. Test Your Changes: Ensure that your changes are properly tested and do not introduce any issues.
-5. Commit Your Changes: Commit your changes with a clear and descriptive commit message.
-6. Push Your Changes: Push your changes to your forked repository.
-7. Submit a Pull Request: Create a new pull request from your forked repository to the main Agiliwell repository.
+Contributions, suggestions, and feature requests are welcome!  
+Feel free to open an issue or submit a pull request.
+
+## 📂 Project Structure (Simplified)
 
